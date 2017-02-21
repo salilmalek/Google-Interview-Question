@@ -1,4 +1,4 @@
-# InterviewQuestions
+# Google Interview Question
 
 USING JAVA You are given an integer X. You must choose two adjacent digits and replace them with a single adigit that equals to the rounded up average of these two digits.
 

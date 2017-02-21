@@ -1,6 +1,6 @@
 # Google Interview Question
 
-USING JAVA You are given an integer X. You must choose two adjacent digits and replace them with a single adigit that equals to the rounded up average of these two digits.
+You are given an integer X. You must choose two adjacent digits and replace them with a single adigit that equals to the rounded up average of these two digits.
 
 For example, from the integer X= 623315, you can obtain:
 
